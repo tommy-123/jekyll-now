@@ -1,5 +1,5 @@
 ---
-title: lesson 5
+title: lesson 7
 layout: post
 author: tommy.poston
 permalink: /copy-of-using-github/
@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>fuse box work</td>
     <td>Date</td>
-    <td>Lesson 5</td>
+    <td>Lesson 7</td>
   </tr>
 </table>
 
