@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github
+title: lesson 5
 layout: post
 author: tommy.poston
 permalink: /copy-of-using-github/
@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>fuse box work</td>
     <td>Date</td>
-    <td>01/01/01</td>
+    <td>Lesson 5</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I didn't fully copy out the manual and I changed things to be productive, I worked alone and did struggle a bit, but it delt much more rewarding doing work with no help,</td>
+    <td>I didn't fully copy out the manual and I changed things to be productive, I worked alone and did struggle a bit, but it delt much more rewarding doing work with no help,i also managed to make progess even though ihad equipment failiurs, so i am quite proud of that.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The mouse wasnt working, which is an issue that also occured in my first lesson</td>
+    <td>The mouse wasnt working, which is an issue that also occured in my first lesson which was very annoying, and the computer also crashed which didn't help, but i think i made good progess, and will hopefully move ont to the robot arm by the end of term.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td></td>
+    <td>I will change the mouse when it is broken, and ask people which fuze box is the one that crashes to make sure i dont have that one. Next time i might work with someone e</td>
   </tr>
 </table>
 
